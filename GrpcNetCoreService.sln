@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNetCoreService", "GrpcN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GprcNetCoreServiceApp", "GrpcNetCoreApp\GprcNetCoreServiceApp.csproj", "{648E908B-6CDB-4E1C-A08A-C9F9D7FEAFBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNetCoreService.RabbitMq", "GrpcNetCoreService.RabbitMq\GrpcNetCoreService.RabbitMq.csproj", "{A3B031AA-BA13-4B7E-B908-51F93E468F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{648E908B-6CDB-4E1C-A08A-C9F9D7FEAFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{648E908B-6CDB-4E1C-A08A-C9F9D7FEAFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{648E908B-6CDB-4E1C-A08A-C9F9D7FEAFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B031AA-BA13-4B7E-B908-51F93E468F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B031AA-BA13-4B7E-B908-51F93E468F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B031AA-BA13-4B7E-B908-51F93E468F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B031AA-BA13-4B7E-B908-51F93E468F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

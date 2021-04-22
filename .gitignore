@@ -5,3 +5,5 @@
 /GrpcNetCoreApp/obj/
 /GrpcNetCoreService/obj/
 /GrpcNetCoreService/bin/
+/GrpcNetCoreService.RabbitMq/obj/
+/GrpcNetCoreService.RabbitMq/bin/
