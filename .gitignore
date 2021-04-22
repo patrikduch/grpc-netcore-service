@@ -1,0 +1,7 @@
+/.vs/
+/GrpcNetCore.Client/bin/
+/GrpcNetCore.Client/obj/
+/GrpcNetCoreApp/bin/
+/GrpcNetCoreApp/obj/
+/GrpcNetCoreService/obj/
+/GrpcNetCoreService/bin/
